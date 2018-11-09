@@ -1,0 +1,5 @@
+Conceptnota Markov Chains - Nicole Horward
+
+Link Github: https://github.com/NHorward/MarkovChainNMD 
+
+Een Markov Chain die eigen definities maakt op basis van de Urban Dictionary API en het gekozen woord. 
